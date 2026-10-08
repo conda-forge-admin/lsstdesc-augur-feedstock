@@ -36,6 +36,7 @@ requirements:
     - numpydoc
     - healpy
     - click
+    - crow
 
 test:
   requires:
